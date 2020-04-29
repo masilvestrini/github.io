@@ -1,5 +1,3 @@
-<p> 29/04/2020 </p>
-<br>
 <h2> IED - FED <br>
 Website produzido em Aula </h2>
 
