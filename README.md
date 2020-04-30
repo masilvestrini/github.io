@@ -15,13 +15,10 @@ desenvolvido no Webflow </h2>
   
 <br>
 
-<link> https://ied-experiencia-do-usuario-ux.webflow.io/ </link>
-<
-br>
-
-<em> Data: 29/04/2020</em></p>
+[Link do Website](https://ied-experiencia-do-usuario-ux.webflow.io/)
 
 <br>
+
 
 <p>Aluna: <strong>Mayara Silvestrini</strong> :)</p>
 
